@@ -1,3 +1,6 @@
 [submodule "3-grading-tests"]
 	path = 3-grading-tests
 	url = git@github.com:spbu-coding-2024/3-grading-tests.git
+[submodule "3-vvmaksim"]
+	path = 3-vvmaksim
+	url = git@github.com:spbu-coding-2024/3-vvmaksim.git
