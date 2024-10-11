@@ -4,3 +4,6 @@
 [submodule "3-vvmaksim"]
 	path = 3-vvmaksim
 	url = git@github.com:spbu-coding-2024/3-vvmaksim.git
+[submodule "3-Drenger"]
+	path = 3-Drenger
+	url = git@github.com:spbu-coding-2024/3-Drenger.git
