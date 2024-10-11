@@ -13,3 +13,6 @@
 [submodule "3-Nasty12121"]
 	path = 3-Nasty12121
 	url = git@github.com:spbu-coding-2024/3-Nasty12121.git
+[submodule "3-ivanovm-main"]
+	path = 3-ivanovm-main
+	url = git@github.com:spbu-coding-2024/3-ivanovm-main.git
