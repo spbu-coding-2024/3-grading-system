@@ -25,3 +25,6 @@
 [submodule "3-g4rry1"]
 	path = 3-g4rry1
 	url = git@github.com:spbu-coding-2024/3-g4rry1.git
+[submodule "3-XRenso"]
+	path = 3-XRenso
+	url = git@github.com:spbu-coding-2024/3-XRenso.git
