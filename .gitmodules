@@ -94,3 +94,6 @@
 [submodule "3-DaryaNechaeva"]
 	path = 3-DaryaNechaeva
 	url = git@github.com:spbu-coding-2024/3-DaryaNechaeva.git
+[submodule "3-RannyayaAnastasia"]
+	path = 3-RannyayaAnastasia
+	url = git@github.com:spbu-coding-2024/3-RannyayaAnastasia.git
