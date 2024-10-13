@@ -67,3 +67,6 @@
 [submodule "3-K0tB0ris"]
 	path = 3-K0tB0ris
 	url = git@github.com:spbu-coding-2024/3-K0tB0ris.git
+[submodule "3-MaksimGSI"]
+	path = 3-MaksimGSI
+	url = git@github.com:spbu-coding-2024/3-MaksimGSI.git
