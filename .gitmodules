@@ -85,3 +85,6 @@
 [submodule "3-pechenb"]
 	path = 3-pechenb
 	url = git@github.com:spbu-coding-2024/3-pechenb.git
+[submodule "3-fUS1ONd"]
+	path = 3-fUS1ONd
+	url = git@github.com:spbu-coding-2024/3-fUS1ONd.git
