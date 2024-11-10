@@ -145,3 +145,6 @@
 [submodule "3-mariagrinn"]
 	path = 3-mariagrinn
 	url = git@github.com:spbu-coding-2024/3-mariagrinn.git
+[submodule "3-Nicholas-uni"]
+	path = 3-Nicholas-uni
+	url = git@github.com:spbu-coding-2024/3-Nicholas-uni.git
