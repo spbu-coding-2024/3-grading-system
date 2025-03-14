@@ -151,3 +151,6 @@
 [submodule "3-silvitreatment"]
 	path = 3-silvitreatment
 	url = git@github.com:spbu-coding-2024/3-silvitreatment.git
+[submodule "3-Bogban893"]
+	path = 3-Bogban893
+	url = git@github.com:spbu-coding-2024/3-Bogban893.git
