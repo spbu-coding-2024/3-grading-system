@@ -163,3 +163,6 @@
 [submodule "3-SaharaSurfer"]
 	path = 3-SaharaSurfer
 	url = git@github.com:spbu-coding-2024/3-SaharaSurfer.git
+[submodule "3-Danya-st"]
+	path = 3-Danya-st
+	url = git@github.com:spbu-coding-2024/3-Danya-st.git
