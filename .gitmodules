@@ -166,3 +166,6 @@
 [submodule "3-Danya-st"]
 	path = 3-Danya-st
 	url = git@github.com:spbu-coding-2024/3-Danya-st.git
+[submodule "3-Life-enjoyer7"]
+	path = 3-Life-enjoyer7
+	url = git@github.com:spbu-coding-2024/3-Life-enjoyer7.git
